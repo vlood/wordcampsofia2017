@@ -65,14 +65,14 @@ body{
 /* */
 .site-header .bg-block{
 	display: table;
-	background: url('images/header-image.jpg') no-repeat center bottom;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/06/header-image.jpg') no-repeat center bottom;
 	background-size: cover;
 }
 .site-header .bg-block .right-col,
 .site-header .bg-block .left-col{
 	display: table-cell;
 	width: 50%;
-	background: url('images/opacity-lines.png') repeat-x;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/06/opacity-lines.png') repeat-x;
 	background-size: auto 100%;
 }
 .site-header .bg-block .middle-col{
@@ -83,7 +83,7 @@ body{
 	height: 100%;
 	padding-top: 122px;
 	text-align: center;
-	background: url('images/logo-wrap-bg.png') no-repeat center bottom;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-wrap-bg.png') no-repeat center bottom;
 } 
 
 /* main navigation*/
@@ -136,7 +136,7 @@ body{
 }
 .main-nav ul.main-nav-list li.home-item a{
 	width: 24px;
-	background: url('images/home-icon.png') no-repeat center 13px;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/06/home-icon.png') no-repeat center 13px;
 }
 
 /* Conference info*/
@@ -157,15 +157,15 @@ body{
 }
 .conf-info .item-info.item-callendar{
 	color: #ffffff;
-	background:#262931 url('images/callendar-icon.png') no-repeat center 50px;
+	background:#262931 url('https://2017.sofia.wordcamp.org/files/2017/06/callendar-icon.png') no-repeat center 50px;
 }
 .conf-info .item-info.item-place{
 	color: #262931;
-	background:#ffffff url('images/place-icon.png') no-repeat center 50px;
+	background:#ffffff url('https://2017.sofia.wordcamp.org/files/2017/06/place-icon.png') no-repeat center 50px;
 }
 .conf-info .item-info.item-time{
 	color: #ff5e3c;
-	background:#dedede url('images/time-icon.png') no-repeat center 50px;
+	background:#dedede url('https://2017.sofia.wordcamp.org/files/2017/06/time-icon.png') no-repeat center 50px;
 }
 @media (max-width: 767px){
 	.main-width{
@@ -196,7 +196,7 @@ body{
 		height: 20px;
 		float: right;
 		margin: 15px;
-		background: url('images/nav-btn.png');
+		background: url('https://2017.sofia.wordcamp.org/files/2017/06/nav-btn.png');
 		border: none;
 		cursor: pointer;
 	}
