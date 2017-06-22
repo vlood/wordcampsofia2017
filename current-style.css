@@ -658,32 +658,27 @@ input:focus,textarea:focus,select:focus {
 	display: none;
 }
 
-#site-title {
-	display: none;
-	font-size: 2.4em;
-}
-
-#site-title a {
-	color: #e76f52;
-}
-
 #site-description {
-	color: #fff;
-	font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
-	font-size: 1em;
-	letter-spacing: .11em;
+	display: none;
+}
+
+#site-title {
 	background: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-wrap-bg4-4.png') no-repeat center bottom;
 }
 
+#site-title a {
+	background: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-wrap-bg4-4.png') no-repeat center bottom;
+	border-bottom: 0px;
+}
+
 @media screen and (min-width: 520px) {
-	#site-description {
+	#site-title {
 		font-size: .8em;
 		height: 470px;
 	}
 }
 
-#site-description:before {
-	content: '';
+#site-title a {
 	display: block;
 	width: 342px;
 	height: 462px;
@@ -692,7 +687,11 @@ input:focus,textarea:focus,select:focus {
 	background-size: 342px;
 	background-repeat: no-repeat;
 	background-position: bottom;
+	line-height: 0; 
+    font-size: 0;
+    color: transparent; 
 }
+
 
 @media screen and (min-width: 520px) {
 	body.home #header-container {
@@ -700,8 +699,8 @@ input:focus,textarea:focus,select:focus {
 	}
 }
 
-@media screen and (min-width: 520px) {
-	body.home #site-description:before {
+@media screen and (min-width: 520px) {	
+	body.home #site-title a {
 		width: 380px;
 		height: 462px;
 		margin: 1em auto;
