@@ -264,7 +264,7 @@ img {
 
 @media screen and (min-width: 992px) {
 	#container {
-		max-width: 80%;
+		max-width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -295,7 +295,7 @@ body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content
 
 @media screen and (min-width: 992px) {
 	body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content-row-wrapper .sidebar-row #container {
-		width: 68.52941%;
+		width: 100%;
 		float: left;
 		margin-right: 5.88235%;
 		margin-left: 0;
