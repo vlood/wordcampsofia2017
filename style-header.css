@@ -156,10 +156,12 @@ body{
 	background-position: center 50px;
 }
 .conf-info .item-info.item-callendar{
+	position:relative;
 	color: #ffffff;
 	background:#262931 url('https://2017.sofia.wordcamp.org/files/2017/06/callendar-icon.png') no-repeat center 50px;
 }
 .conf-info .item-info.item-place{
+	position:relative;
 	color: #262931;
 	background:#ffffff url('https://2017.sofia.wordcamp.org/files/2017/06/place-icon.png') no-repeat center 50px;
 }
@@ -168,8 +170,17 @@ body{
 	background:#dedede url('https://2017.sofia.wordcamp.org/files/2017/06/time-icon.png') no-repeat center 50px;
 }
 .conf-info .item-info.item-ticket{
+	position:relative;
 	color: #ff5e3c;
 	background:#dedede url('https://2017.sofia.wordcamp.org/files/2017/06/tickets-1.png') no-repeat center 50px;
+}
+a.conf-link {
+	height:100%;
+	width:100%;
+	left:0px;
+	bottom:0px;
+	position:absolute;
+	z-index:1;
 }
 @media (max-width: 767px){
 	.main-width{
