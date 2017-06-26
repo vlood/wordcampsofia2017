@@ -1714,6 +1714,10 @@ h2.session-speakers,h2.speaker-sessions {
 	background-position: center 50px;
 }
 
+.conf-info .item-info a {
+	border-bottom: 0px;
+}
+
 .conf-info .item-info.item-callendar {
 	color: #ffffff;
 	background: #262931 url('https://2017.sofia.wordcamp.org/files/2017/06/callendar-icon.png') no-repeat center 50px;
