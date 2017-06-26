@@ -167,6 +167,10 @@ body{
 	color: #ff5e3c;
 	background:#dedede url('https://2017.sofia.wordcamp.org/files/2017/06/time-icon.png') no-repeat center 50px;
 }
+.conf-info .item-info.item-ticket{
+	color: #ff5e3c;
+	background:#dedede url('https://2017.sofia.wordcamp.org/files/2017/06/ticket.png') no-repeat center 50px;
+}
 @media (max-width: 767px){
 	.main-width{
 		width: 100%;
