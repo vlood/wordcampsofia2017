@@ -694,7 +694,7 @@ input:focus,textarea:focus,select:focus {
 
 
 @media screen and (min-width: 520px) {
-	body.home #header-container {
+	body.home #header-container, body.page-template-default #header-container {
 		height: 490px;
 	}
 }
