@@ -296,9 +296,9 @@ body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content
 @media screen and (min-width: 992px) {
 	body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content-row-wrapper .sidebar-row #container {
 		width: 90%;
-		float: left;
-		margin-right: 5.88235%;
-		margin-left: 0;
+		float: none;
+		margin-right: auto;
+		margin-left: auto;
 	}
 }
 
