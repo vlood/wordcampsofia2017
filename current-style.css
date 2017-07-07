@@ -640,7 +640,7 @@ input:focus,textarea:focus,select:focus {
 	width: 100%;
 	height: 360px;
 	color: #fff;
-	background: url('https://2017.sofia.wordcamp.org/files/2017/06/header-image2-1.jpg') no-repeat center bottom;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/07/header-image2-1-min.jpg') no-repeat center bottom;
 	background-position: center;
 	background-size: cover !important;
 	border-bottom: 5px solid #ff5e3c;
@@ -663,11 +663,11 @@ input:focus,textarea:focus,select:focus {
 }
 
 #site-title {
-	background: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-wrap-bg4-4.png') no-repeat center bottom;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/07/logo-wrap-bg4-4-min.png') no-repeat center bottom;
 }
 
 #site-title a {
-	background: url('https://2017.sofia.wordcamp.org/files/2017/06/logo-wrap-bg4-4.png') no-repeat center bottom;
+	background: url('https://2017.sofia.wordcamp.org/files/2017/07/logo-wrap-bg4-4-min.png') no-repeat center bottom;
 	border-bottom: 0;
 }
 
@@ -714,8 +714,8 @@ input:focus,textarea:focus,select:focus {
 @media screen and (min-width: 768px) {
 	#main-menu-wrapper {
 	/*position: absolute;
-																				top: 595px;
-																				left: 0;*/
+																						top: 595px;
+																						left: 0;*/
 		width: 100%;
 		text-align: left;
 		background-color: transparent;
@@ -1784,13 +1784,13 @@ h2.session-speakers,h2.speaker-sessions {
 	}
 	
 	#menu-main-menu.menu li,
-																	#menu-main-menu.menu li > a {
+																			#menu-main-menu.menu li > a {
 		display: block;
 		float: none;
 	}
 	
 	#menu-main-menu.menu li,
-																	#menu-main-menu.menu li .sub-menu li {
+																			#menu-main-menu.menu li .sub-menu li {
 		border-top: 1px solid rgba(255,255,255,0.2);
 	}
 	
@@ -1799,7 +1799,7 @@ h2.session-speakers,h2.speaker-sessions {
 	}
 	
 	#menu-main-menu.menu li:hover,
-																	#menu-main-menu.menu li .sub-menu li:hover {
+																			#menu-main-menu.menu li .sub-menu li:hover {
 		background: transparent;
 	}
 	
@@ -1845,7 +1845,7 @@ h2.session-speakers,h2.speaker-sessions {
 	}
 	
 	.main-nav ul.main-nav-list li.home-item a,
-																					.main-nav ul.main-nav-list li a {
+																							.main-nav ul.main-nav-list li a {
 		display: block;
 		border-bottom: solid 1px #ffffff;
 		width: 100%;
