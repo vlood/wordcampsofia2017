@@ -1578,15 +1578,15 @@ h2.session-speakers,h2.speaker-sessions {
 }
 
 .wcorg-sponsor-level-gold h2,.sponsor__title--gold {
-	color: #DAA520;
+	color: #ff5e3c;
 }
 
 .wcorg-sponsor-level-silver h2,.sponsor__title--silver {
-	color: #778899;
+	color: #ff5e3c;
 }
 
 .wcorg-sponsor-level-bronze h2,.sponsor__title--bronze {
-	color: #D2691E;
+	color: #ff5e3c;
 }
 
 #tix {
