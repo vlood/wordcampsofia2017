@@ -1588,7 +1588,11 @@ h2.session-speakers,h2.speaker-sessions {
 .wcorg-sponsor-level-bronze h2,.sponsor__title--bronze {
 	color: #ff5e3c;
 }
-
+.wcorg-sponsor {
+  border-top: 2px solid #ff5e3c;
+	margin-top: 30px;
+	padding-top: 30px;
+}
 #tix {
 	padding: 0 0 1em !important;
 }
