@@ -1593,6 +1593,12 @@ h2.session-speakers,h2.speaker-sessions {
 	margin-top: 30px;
 	padding-top: 30px;
 }
+.wcorg-sponsor-level-gold h3 a ,.wcorg-sponsor-level-gold h3 a:hover , .wcorg-sponsor-level-bronze h3 a,.wcorg-sponsor-level-bronze h3 a:hover,
+.wcorg-sponsor-level-silver h3 a, .wcorg-sponsor-level-silver h3 a:hover {
+	text-decoration: none;
+	border-bottom: none;
+	cursor: default;
+}
 #tix {
 	padding: 0 0 1em !important;
 }
