@@ -1599,6 +1599,9 @@ h2.session-speakers,h2.speaker-sessions {
 	border-bottom: none;
 	cursor: default;
 }
+.wcorg-sponsor-description > a {
+ border-bottom: none;	
+}
 #tix {
 	padding: 0 0 1em !important;
 }
